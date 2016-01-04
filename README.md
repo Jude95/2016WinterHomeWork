@@ -23,7 +23,7 @@
         + 与服务器交互(服务器哪来？完成level4，web基友，leancloud，微博／github已有API)   
         + 包含账号系统的完整APP。
     
-+ Level4－－5%的人在这里
++ Level4－－5%的人在这里  
     自建服务器+PHP服务器端+mysql  
     买一台服务器，没钱的这里有阿里云的[学生优惠](http://www.aliyun.com/act/aliyun/campus.html?spm=5176.383338.1909776.12.q2dmDK),一月一顿饭钱,也许换来你以后每月多1000顿饭钱。  
     Web可以不懂Android。但Android不能不懂Web。自己写一写简单服务器端，知己知彼，百撸不怠。  
