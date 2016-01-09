@@ -34,8 +34,8 @@
     
     
 #要求
-Level123依实力选一级完成即可。要做level4必须完成level3。   
-代码上传Github，写好Readme。寒假回来会公示你们所有人的作业。但并不是说寒假回来作业就结束。  
+Level123依实力选一级完成即可。要做level4必须完成level2或3。   
+代码上传Github，写好Readme（包含运行截图，apk下载地址）。开学前把自己作业的github地址发到` redrockmobile2015@gmail.com `。  
 你们能完成Level1就已经站在大部分人前面了。所以至少做完一个自己喜欢的APP。  
 你们也可以选择寒假玩一个月，以便融入那`大部分人`。   
 
