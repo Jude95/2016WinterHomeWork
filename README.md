@@ -40,7 +40,7 @@ Level123依实力选一级完成即可。要做level4必须完成level2或3。
 你们也可以选择寒假玩一个月，以便融入那`大部分人`。   
 
 #资源
-[网络请求概论](http://www.jianshu.com/p/3141d4e46240)  
+[Android网络请求心路历程](http://www.jianshu.com/p/3141d4e46240)  
 [ToDoList demo](https://github.com/llxdaxia/HomeWork)   
 [密钥盒子源码](https://github.com/Jude95/KeyChain)  
 [W3school](http://www.w3school.com.cn/)  
